@@ -1,0 +1,17 @@
+import React from 'react';
+const homepage = () => (
+    <React.Fragment>
+        <h1>Hello</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit blandit lacus, non maximus dolor cursus sit amet. Phasellus faucibus nulla at ante dignissim rutrum sed vel augue. Nulla enim nulla, tempus ut condimentum eget, porttitor vel metus. Nullam vel metus porttitor, finibus turpis efficitur, sollicitudin velit. Suspendisse placerat pellentesque consectetur. Praesent et commodo velit, cursus convallis erat. Cras malesuada leo eu laoreet volutpat. Nam ac facilisis justo. Nunc tempor metus a tortor ultricies tincidunt. Nunc vulputate fringilla eleifend. Nam eget posuere risus, id congue sem. Etiam tincidunt arcu volutpat justo ornare dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque varius interdum dui at accumsan. Suspendisse sed sodales erat, sit amet accumsan metus. Sed lobortis rutrum tristique.
+
+        Vivamus interdum massa sit amet tellus maximus, sed eleifend risus blandit. Nullam sit amet neque vel nibh ornare ultricies. Aenean malesuada, odio sollicitudin congue rhoncus, tellus magna mollis lorem, eget gravida orci leo vel lorem. Etiam tempus rhoncus blandit. Donec sollicitudin ullamcorper est tincidunt vehicula. Praesent tempor libero non rutrum ornare. Morbi in sem lorem.
+
+        Praesent non vulputate justo. Aenean lobortis mattis metus quis scelerisque. Phasellus volutpat ut magna vitae pulvinar. Sed metus ligula, consequat vel dui at, dapibus iaculis eros. Quisque lacinia tellus eu purus vehicula, ut scelerisque diam fringilla. Cras fermentum mi sit amet nibh pulvinar imperdiet. Etiam sed lacus vitae odio efficitur pretium.
+
+        Nam pulvinar nisl elit, nec blandit purus malesuada vitae. In egestas sollicitudin erat, at aliquet lectus eleifend at. Donec pellentesque vel nibh imperdiet malesuada. Nulla lacus dolor, pharetra a tempor ut, vulputate in odio. Suspendisse commodo lorem leo, et posuere libero elementum eu. Aliquam cursus sodales lacus eget pretium. Morbi vitae risus et turpis placerat gravida porta vitae nibh. Suspendisse in interdum ex. Suspendisse placerat sit amet est non fermentum. Donec arcu ante, vulputate eu egestas vitae, ultricies non metus. Duis hendrerit ex in nibh feugiat, id convallis ipsum vestibulum. Praesent malesuada condimentum mi ut fringilla. Donec faucibus turpis ac accumsan efficitur. Vivamus a nunc convallis, accumsan augue quis, viverra tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque sapien urna, placerat id pretium blandit, vehicula vel est.
+
+        Vestibulum viverra mi vitae erat maximus porttitor. Duis ex quam, tristique vel sem in, lobortis ultrices ligula. Vestibulum consequat, nisi sed sollicitudin condimentum, massa ipsum sollicitudin risus, nec interdum augue neque a quam. Suspendisse potenti. Phasellus elementum gravida metus sed mattis. Donec posuere, augue et cursus finibus, ante tellus posuere nulla, sit amet commodo augue purus a erat. Morbi rhoncus luctus quam id varius. Nulla diam nisi, feugiat et orci eu, euismod molestie nisl.</p>
+    </React.Fragment>
+
+);
+export default homepage;
