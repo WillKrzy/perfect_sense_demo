@@ -20,3 +20,60 @@
 .App-link {
   color: #09d3ac;
 }
+
+table, th, td {
+  border: 1px solid black;
+
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(179, 178, 178); 
+}
+
+#current {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+label {
+  display: block;
+}
+
+.newcomment {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+.comment {
+  border-style: solid none none solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+.nav-link {
+  display: inline;
+}
